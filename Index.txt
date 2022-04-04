@@ -1,0 +1,22 @@
+Documentation To share with Client:
+
+1. Security Code Review Methodology / Security Code Review Approach
+2. Security Code Review Report templates
+3. Security Code Review Check list
+4. Security Code Review Questionear
+5. Secure Coding Best Practicess
+
+SAST:
+
+1.Tool analysis 
+2.Tool comparision
+
+Sales:
+1. What KGS can offer
+2. How we are different
+
+Learning:
+1. Security code review Material
+2. Q&A 
+3. 
+
